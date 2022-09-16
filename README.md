@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors-App
 Rock, Paper, Scissors App made with Xcode and swift
 
-Simple app where you choose paper, scissors or rock and the device choos a random value between these three. You can win, draw or lose.
+Simple app where you choose paper, scissors or rock and the device choose a random value between these three. You can win, draw or lose.
 
 <table>
 <tr>
